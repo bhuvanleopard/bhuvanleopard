@@ -70,12 +70,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayAsokan&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjayAsokan&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhuvanleopard&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvanleopard&theme=tokyonight" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayAsokan&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvanleopard&layout=compact&theme=tokyonight" width="48%" />
 </div>
 
 ---
@@ -91,7 +91,7 @@
 ## 📬 Let’s Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhuvan.in/">
+  <a href="https://www.linkedin.com/in/bhuvan-in/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:cbhuvan08@gmail.com">
